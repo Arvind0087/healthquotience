@@ -13,6 +13,7 @@ function HistoryTable({types, desc, calories, ctime, id}) {
 
 //console.log(editItem)
 
+
   return (
     <>
         <tr><td>{types}</td>
